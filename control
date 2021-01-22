@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.unlockorelse
+Name: UnlockOrElse
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Make your Passcode pop up right away!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends: mobilesubstrate
